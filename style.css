@@ -14,3 +14,12 @@ body {
 g-ytsubscribe {
   padding 25px
 }
+div.card-columns {
+margin: 20px;
+}
+h4 {
+font-size: 1.5vw;
+position: relative;
+padding-bottom: 50px;
+max-height: 12px;
+}
