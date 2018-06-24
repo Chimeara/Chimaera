@@ -29,7 +29,7 @@ var downloadInProgress = false;
 
 				if (percent >= 0)
 				{
-					$('#funtxt').html("Initializing Rem...");
+					$('#funtxt').html("Initializing Ding Dong...");
 				}
 
 				if (percent >= 25)
@@ -49,7 +49,7 @@ var downloadInProgress = false;
 
 				if (percent >= 100)
 				{
-					$('#funtxt').html("Extra Rem downloaded!");
+					$('#funtxt').html("Extra Ding Dong downloaded!");
 					$('.kawaii').css("visibility", "hidden");
 					clearInterval(refreshIntervalId);
 					downloadInProgress = false;
