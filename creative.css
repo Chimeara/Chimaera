@@ -17,7 +17,7 @@ hr {
   max-width: 50px;
 }
 hr.light {
-  border-color: white;
+  border-color:	white;
 }
 a {
   -webkit-transition: all 0.35s;
@@ -165,9 +165,9 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url(eh/1.png');
   text-align: center;
-  color: white;
+  color: black;
 }
 header .header-content {
   position: relative;
